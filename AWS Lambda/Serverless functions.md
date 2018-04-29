@@ -44,3 +44,6 @@
 ** Iron.io
 ** Google Cloud functions
 ** Open Whisk (IBM)
+
+* Sample Lambda functions 
+- AWS built-in API schedulers and E-mail
