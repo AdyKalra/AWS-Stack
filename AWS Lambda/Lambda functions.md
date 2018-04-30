@@ -34,3 +34,16 @@
 - handler (code that thefn would call)
 - VPC if required 
 - encryption through the KMS key
+
+# Monitoring and Alerting
+## test event
+- Configure test event 
+- Enable trigger 
+## Monitoring 
+- invocations 
+- duration
+- errors
+- Throttles
+- cloudwatch log streaam
+- Create Alarm for errors etc 
+
