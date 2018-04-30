@@ -20,5 +20,3 @@
 - AWS SDK boto3
 - HTML template Jinja2
 
-# Create a Dynamic Lambda Header
-- 
