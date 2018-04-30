@@ -25,8 +25,12 @@
  - use logging stored in AWS cloudwatch
  - Env differences because the code runs on an amazon Linux machine 
  
- # Deploy Lambda
+ # Deploy Lambda / create function
  - Configure Cloudwatch schedule
  -- Select blueprint (sample configs of event sources and Lambda functions)
  -- Configure triggers
  -- Configure Function 
+- environment variables 
+- handler (code that thefn would call)
+- VPC if required 
+- encryption through the KMS key
