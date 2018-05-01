@@ -20,3 +20,21 @@
 - AWS SDK boto3
 - HTML template Jinja2
 
+## Testing your Lambda fn
+- Cuckoo handler and pass context values
+
+## Function package setup
+- Open setup.sh
+-- create virtual env 
+-- create setup dir
+-- move relevant files in setup dir
+-- install requirements
+-- prepare deployment package Zipping package.zip
+
+- bash setup.sh
+
+# Function deployment and config with AWS command line 
+- aws iam list-roles
+- find arn value from the role
+- aws lambda create function 
+- refresh aws lambda console to see the lambda fn
