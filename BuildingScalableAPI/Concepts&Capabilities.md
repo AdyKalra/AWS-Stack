@@ -43,6 +43,28 @@ e.g POST endpoint
 - e.g If we have API on public internet and an EC2 instance inside our VPC 
 -- add an elastic IP to the EC2 instance redirect the API to the service
 
+## Throttling API calls
+- throttle by burst
+- throttle by rate limits 
+- This helps us prevent overloading backend services 
+- Requests over the limit receive HTTP 429 response 
+- Defined at the stage
+- Can be overwritten at the method level
 
+## Caching your API requests
+- Configured per stage
+- Improve performance 
+- reduce traffic
+- from0.5gb to to 237GB cache
+- charged seperatly for the cache
+
+### Billing
+- $3.5 per million API requests 
+- Data out charges -- $0.09 for first 10 TB
+-- $0.085 for next 40TB
+-- $0.07 for next 100 TB
+-- $0.05 for next 350 TB
+- Cache charges
+-- from  $0.02 to $3.80 upto 237GB
 
 
