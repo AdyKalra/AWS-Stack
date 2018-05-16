@@ -32,3 +32,4 @@ e.g - url to json object
 - $util.escapeJavaScript
 - $util.urlEncode / decode 
 - $util.base64Encode
+
