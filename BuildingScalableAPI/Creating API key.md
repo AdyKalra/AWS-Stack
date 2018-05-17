@@ -10,3 +10,14 @@
 - which stage 
 - authorization type
 - IAM role 
+
+# Creating API key 
+- Name 
+- Description 
+- enabled 
+- stages its used for 
+
+## Associating the API key with resources 
+- Adding x-api key header helps in requesting the API
+- without theheader it would return a 403
+- 
