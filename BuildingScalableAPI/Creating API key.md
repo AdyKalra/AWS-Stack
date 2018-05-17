@@ -20,4 +20,7 @@
 ## Associating the API key with resources 
 - Adding x-api key header helps in requesting the API
 - without theheader it would return a 403
-- 
+- create policy statement for api gateway 
+- IAM role for the api gateway 
+- view cloudwatch logs 
+
