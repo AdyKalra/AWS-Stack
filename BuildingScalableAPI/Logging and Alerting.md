@@ -16,4 +16,9 @@
 - Cloudwatch console under metrics
 - add multiple widgets 
 
+## Creating Alarms 
+- Create based on metric threshold
+- trigger notifications
+- Use SNS topics
+- create alarm from api gateway console
 
