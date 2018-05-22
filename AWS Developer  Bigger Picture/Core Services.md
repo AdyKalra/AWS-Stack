@@ -38,3 +38,13 @@
 ### Use Cloudfront to cache your content
 - edging your content
 
+# Relational Database Service RDS
+- Managed database aspects
+### mysql postgreSQL SQLserver MariaDB Oracle Amazon aurora
+- type of ec2 instance with RDS 
+### Nosql - dynamoDB and Redshift 
+
+# Route53
+- DNS management 
+- is core to letting users interact with services 
+- 
