@@ -13,7 +13,7 @@
 -- General purpose 
 -- Memory optimized
 -- Compute optimized
-* Step 3 
+* Step 3 Cofigure instance types
 - auto scaling group 
 
 # 
