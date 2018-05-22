@@ -21,4 +21,16 @@
 * Step 5 -- Tag instances to add meta values for instance
 * Step 6 Configure Security group
 
-# 
+# Simple Storage Service S3
+- store files 
+- used by cloudwatch and elastic bean stalk
+- Max size is 5 tb
+## Bucket 
+- root resource to add objects 
+- configure to trigger events when objects are added
+- preserve older versions of objects
+- replicate objects across regions 
+- s3 bucket url 
+- https://s3-us-west region 
+- /okfido.org bucket name
+- / followed by path 
