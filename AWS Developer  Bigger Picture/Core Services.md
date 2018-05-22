@@ -14,6 +14,11 @@
 -- Memory optimized
 -- Compute optimized
 * Step 3 Cofigure instance types
-- auto scaling group 
+-- auto scaling group 
+-- number of instances that can auto scale
+* Step 4 Add storage
+-- Elastic Block Storage EBS used for EC2 file systems
+* Step 5 -- Tag instances to add meta values for instance
+* Step 6 Configure Security group
 
 # 
