@@ -34,3 +34,7 @@
 - https://s3-us-west region 
 - /okfido.org bucket name
 - / followed by path 
+- hosting static website
+### Use Cloudfront to cache your content
+- edging your content
+
