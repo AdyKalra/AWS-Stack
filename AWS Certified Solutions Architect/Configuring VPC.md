@@ -35,3 +35,13 @@
 
 # VPC Security 
 - Security groups 
+
+## VPC in Action
+- Select a Reigon
+- Create a VPC within and a CIDR block ip address
+- Inside VPC multiple Subnets private and public 
+- Two private subnets in Availability zone A
+- One public subnet in Availability zone B
+- Router through Internet Gateway
+- needs elastic ip address to talk to NAT gateway fr internet 
+- use the VPC wizard 
